@@ -13,7 +13,7 @@
 
 ## 📚 **Ресурсы и ссылки**
 - 📊 [Github: Датасет на Github](https://github.com/iguptashubham/pizzahut-analysis-sql/blob/main/pizzahut_data.zip)
-- 🔗 [GitHub Репозиторий]([https://github.com/WhosArt/pizzahut-analysis-pgsql](https://github.com/WhosArt/pizza_hut_da))
+- 🔗 [GitHub Репозиторий](https://github.com/WhosArt/pizza_hut_da)
 
 ## 📖 О проекте
 
