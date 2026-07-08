@@ -1,8 +1,14 @@
 #python stuff
 venv/
+.venv/
+.env
 .pylintrc
 __pycache__/
 
 #ide stuff
 .vscode
 .idea
+
+# jupyter stuff
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
